@@ -1,0 +1,39 @@
+body {
+	background-color:#34282C;
+}
+h1 {
+color: #FFD700;
+text-align: center;
+font-size: 46px;
+	}
+table { width:100%
+}
+
+.topnav {
+overflow: hidden;
+background-color:#34282C:
+}
+
+.topnav a {
+float: left;
+color:#FFD700:
+text-align: center;
+padding: 14px 16px;
+text-decoration: none;
+font size: 17px;
+background-image: url ("Insert nav bar copy.jpg")
+}
+
+.topnav a:hover {
+background-color: #34282C;
+color: black;
+}
+
+.topnav a.active {
+background-color: #34282C;
+color: yellow;
+}
+
+.topnav a.visited {
+color: red;
+}
