@@ -1,0 +1,87 @@
+body {
+background-color: F99584;
+}
+
+p {
+color: blue;
+font-size: 8pt;
+text-align: center;
+}
+
+h1 {
+color: #ADD8E6;
+text-decoration: underline;
+text-align: center;
+font-size: 17pt;
+}
+
+.Bonds {
+color: brown;
+font-weight: 9000;
+}
+.Stock {
+color: red;
+font-weight: 9000;
+}
+.Options {
+color: green;
+font-weight: 9000;
+}
+.FX {
+color: orange;
+font-weight: 9000;
+text-shadow: red 0 0 5px;
+}
+.MM {
+color: white;
+font-weight: 9000;
+}
+ 
+
+h1 {
+color:blue;
+text-align: center;
+font-size: 
+}
+
+table { width:;
+}
+
+.topnav {
+overflow: hidden;
+
+}
+
+.topnav a {
+float: left;
+color: blue:
+text-align: center;
+padding: 14px 16px;
+text-decoration: none;
+font size: 17px;
+}
+
+.topnav a.hover {
+background-color: transparent;
+color: blue;
+}
+
+.topnav a.unvisited{
+color:blue;
+}
+
+.topnav a.active {
+background-color: transparent;
+color: blue;
+}
+
+.topnav a.visited {
+text-decoration: line-through;
+color: red;
+}
+
+video {
+width: 100%;
+height: auto;
+}
+
